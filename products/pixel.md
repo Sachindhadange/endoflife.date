@@ -134,11 +134,11 @@ releases:
 -   releaseCycle: "6a"
     releaseLabel: "Pixel 6a"
     releaseDate: 2022-07-28
-    eoas: 2025-07-01 # at least
+    eoas: 2027-07-01 # at least
     eol: 2027-07-01 # at least
     discontinued: false
-    link: https://en.wikipedia.org/wiki/Pixel_6a
-    supportedAndroidVersions: 12 - 15 # https://www.gsmarena.com/google_pixel_6a-11229.php
+    link: [https://en.wikipedia.org/wiki/Pixel_6a] (https://support.google.com/pixelphone/answer/4457705?hl=en#zippy=%2Cpixel-pixel-pro-pixel-pro-xl-pixel-pro-fold%2Cpixel-a-pixel-pixel-pro%2Cpixel-a-pixel-pixel-pro-pixel-a-pixel-pixel-pro-pixel-fold%2Cpixel-a-g-pixel-pixel-a-g-pixel-a-pixel-xl-pixel)
+    supportedAndroidVersions: 12 - 17 # https://www.gsmarena.com/google_pixel_6a-11229.php
 
 -   releaseCycle: "6pro"
     releaseLabel: "Pixel 6 Pro"
