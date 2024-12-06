@@ -107,56 +107,56 @@ releases:
 -   releaseCycle: "7a"
     releaseLabel: "Pixel 7a"
     releaseDate: 2023-05-10
-    eoas: 2026-05-01 # at least
+    eoas: 2028-05-01 # at least
     eol: 2028-05-01 # at least
     discontinued: false
     link: https://en.wikipedia.org/wiki/Pixel_7a
-    supportedAndroidVersions: 13 - 15 # https://www.gsmarena.com/google_pixel_7a-12170.php
+    supportedAndroidVersions: 13 - 18 # https://www.gsmarena.com/google_pixel_7a-12170.php https://9to5google.com/2024/12/05/google-pixel-6-7-fold-android-updates-extension/
 
 -   releaseCycle: "7pro"
     releaseLabel: "Pixel 7 Pro"
     releaseDate: 2022-10-13
-    eoas: 2025-10-01 # at least
+    eoas: 2027-10-01 # at least
     eol: 2027-10-01 # at least
     discontinued: false
     link: https://en.wikipedia.org/wiki/Pixel_7_Pro
-    supportedAndroidVersions: 13 - 15 # https://www.gsmarena.com/google_pixel_7_pro-11908.php
+    supportedAndroidVersions: 13 - 18 # https://www.gsmarena.com/google_pixel_7_pro-11908.php https://9to5google.com/2024/12/05/google-pixel-6-7-fold-android-updates-extension/
 
 -   releaseCycle: "7"
     releaseLabel: "Pixel 7"
     releaseDate: 2022-10-13
-    eoas: 2025-10-01 # at least
+    eoas: 2027-10-01 # at least
     eol: 2027-10-01 # at least
     discontinued: false
     link: https://en.wikipedia.org/wiki/Pixel_7
-    supportedAndroidVersions: 13 - 15 # https://www.gsmarena.com/google_pixel_7-11903.php
+    supportedAndroidVersions: 13 - 18 # https://www.gsmarena.com/google_pixel_7-11903.php https://9to5google.com/2024/12/05/google-pixel-6-7-fold-android-updates-extension/
 
 -   releaseCycle: "6a"
     releaseLabel: "Pixel 6a"
     releaseDate: 2022-07-28
-    eoas: 2025-07-01 # at least
+    eoas: 2027-07-01 # at least
     eol: 2027-07-01 # at least
     discontinued: false
     link: https://en.wikipedia.org/wiki/Pixel_6a
-    supportedAndroidVersions: 12 - 15 # https://www.gsmarena.com/google_pixel_6a-11229.php
+    supportedAndroidVersions: 12 - 17 # https://www.gsmarena.com/google_pixel_6a-11229.php https://9to5google.com/2024/12/05/google-pixel-6-7-fold-android-updates-extension/
 
 -   releaseCycle: "6pro"
     releaseLabel: "Pixel 6 Pro"
     releaseDate: 2021-10-28
-    eoas: 2024-10-01 # at least
+    eoas: 2026-10-01 # at least
     eol: 2026-10-01 # at least
     discontinued: 2022-10-06
     link: https://en.wikipedia.org/wiki/Pixel_6_Pro
-    supportedAndroidVersions: 12 - 15 # https://www.gsmarena.com/google_pixel_6_pro-10918.php
+    supportedAndroidVersions: 12 - 17 # https://www.gsmarena.com/google_pixel_6_pro-10918.php https://9to5google.com/2024/12/05/google-pixel-6-7-fold-android-updates-extension/
 
 -   releaseCycle: "6"
     releaseLabel: "Pixel 6"
     releaseDate: 2021-10-28
-    eoas: 2024-10-01 # at least
+    eoas: 2026-10-01 # at least
     eol: 2026-10-01 # at least
     discontinued: 2022-10-06
     link: https://en.wikipedia.org/wiki/Pixel_6
-    supportedAndroidVersions: 12 - 15 # https://www.gsmarena.com/google_pixel_6-11037.php
+    supportedAndroidVersions: 12 - 17 # https://www.gsmarena.com/google_pixel_6-11037.php https://9to5google.com/2024/12/05/google-pixel-6-7-fold-android-updates-extension/
 
 -   releaseCycle: "5a"
     releaseLabel: "Pixel 5a"
